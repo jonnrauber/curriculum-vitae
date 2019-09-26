@@ -4,19 +4,21 @@
 
 ## Apresentação
 
-Jonathan, 22 anos, natural de Tunápolis-SC. Graduado em Ciência da Computação na UFFS - Universidade Federal da Fronteira Sul - Campus Chapecó. Analista de sistemas e desenvolvedor Java EE. Na pesquisa, atua na área da visão computacional aplicada à contagem e rastreamento de objetos em equipamentos de precisão.
+Jonathan, 22 anos, natural de Tunápolis-SC. Graduado em Ciência da Computação na UFFS - Universidade Federal da Fronteira Sul - Campus Chapecó. Atualmente atuo como analista de sistemas e desenvolvedor Java EE na Celesc Distribuição S.A. Na pesquisa, meu tema de interesse é a visão computacional aplicada à contagem e rastreamento de objetos em equipamentos de precisão.
 
 ## Experiência
 
-Iniciando a graduação, foi monitor das disciplinas de cálculo na universidade por um ano e meio.
+Iniciando a graduação, fui monitor das disciplinas de cálculo na universidade por um ano e meio.
 
-Em seguida, ingressou como Estagiário de Pesquisa e Inovação Científica na Sanick Equipamentos de Precisão, onde desempenhou estudos em visão computacional e programação de software em baixo nível. Ficou nesta posição por aproximadamente seis meses, quando foi nomeado por concurso público federal para cargo técnico na UFFS.
+Em seguida, ingressei como Estagiário de Pesquisa e Inovação Científica na Sanick Equipamentos de Precisão, onde desempenhei estudos em visão computacional e programação de software em baixo nível. Fiquei nesta posição por aproximadamente seis meses, quando fui nomeado por concurso público federal para cargo técnico na UFFS.
 
-Atuou como Desenvolvedor Java EE na UFFS durante 2 anos e 3 meses. Experiência diária com JSF2, PrimeFaces,JPA, Hibernate, SGBD PostgreSQL, Spring, JAX-RS, Jenkins CI, SonarQube QA, Git e outras tecnologias. Na SETI - UFFS, onde trabalhou, desenvolvem e prestam suporte aos sistemas acadêmicos de toda a UFFS, utilizando a metodologia Scrum e em contato diário com os clientes (diferentes setores interessados da universidade).
+Atuei como Desenvolvedor Java EE na UFFS durante 2 anos e 4 meses. Experiência diária com JSF2, PrimeFaces, JPA, Hibernate, SGBD PostgreSQL, Spring, JAX-RS, Jenkins CI, SonarQube QA, Git e outras tecnologias. Na SETI - UFFS, onde trabalhei, desenvolvi e prestei suporte aos sistemas acadêmicos da UFFS, utilizando a metodologia Scrum e em contato diário com os clientes (diferentes setores interessados da universidade).
 
-Deixou a UFFS no início de setembro de 2019, quando já graduado, assumindo concurso público para o cargo de Analista de Sistemas na Celesc na cidade de Florianópolis.
+Deixei a UFFS no início de setembro de 2019, quando já graduado, assumi concurso público para o cargo de Analista de Sistemas na Celesc na cidade de Florianópolis.
 
-Além da experiência em trabalho, já desenvolveu sistemas para aprendizado pessoal usando HTML5, CSS, JS, Python (frameworks bottle e Flask), PHP (framework Laravel), Java Spring Boot + Thymeleaf, Android Studio e ReactJS.
+Além da experiência em trabalho, já desenvolvi sistemas para aprendizado pessoal usando HTML5, CSS, JS (ES6, AngularJS), Python (frameworks bottle, Flask e Django), PHP (framework Laravel), Java Spring Boot + Thymeleaf, Android Studio, Ionic, dentre outras tecnologias.
+
+Atualmente, aguardo nomeação para as vagas no concurso realizado para o TRF4 - Tribunal Regional Federal da 4ª Região.
 
 ## Conquistas
 
@@ -29,9 +31,11 @@ Além da experiência em trabalho, já desenvolveu sistemas para aprendizado pes
 * Nota 49 na edição 2018 do POSCOMP, prova considerada difícil e utilizada para ingresso nos cursos de mestrado em computação. Foi a maior nota de um aluno da UFFS neste exame desde a sua criação - a média nacional de 2018 foi de 28,8 acertos.
 * Aprovações em concurso:
   * 3º lugar Prefeitura de Chapecó - Técnico de T.I. (2015);
-  * 3º lugar UFFS - Técnico de T.I. (2016);
+  * 3º lugar UFFS - Técnico de Tecnologia da Informação (2016);
   * 1º lugar Celesc - Analista de Sistemas - Desenvolvimento (2019);
-  * Nota 9,0 na prova objetiva do TRF4 - Técnico Judiciário - Apoio Esp. T.I. - Aguardando resultado.
+  * 1º lugar UFFS - Analista de Tecnologia da Informação (2019)
+  * 1º lugar geral TRF4 - Técnico Judiciário Apoio Esp. Tecnologia da Informação (2019)
+  * 3º lugar geral TRF4 - Analista Judiciário Apoio Esp. Sistemas de Tecnologia da Informação (2019)
 
 ## Formação
 
