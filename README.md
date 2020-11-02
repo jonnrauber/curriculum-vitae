@@ -4,21 +4,17 @@
 
 ## Apresentação
 
-Jonathan, 22 anos, natural de Tunápolis-SC. Graduado em Ciência da Computação na UFFS - Universidade Federal da Fronteira Sul - Campus Chapecó. Atualmente atuo como analista de sistemas e desenvolvedor Java EE na Celesc Distribuição S.A. Na pesquisa, meu tema de interesse é a visão computacional aplicada à contagem e rastreamento de objetos em equipamentos de precisão.
+Jonathan, 23, natural de Tunápolis-SC. Graduado em Ciência da Computação pela UFFS - Universidade Federal da Fronteira Sul - Campus Chapecó. Atualmente atuo como Analista de Sistemas na Justiça Federal de Santa Catarina. Na área acadêmica, meu tema de interesse é "visão computacional aplicada à contagem e rastreamento de objetos em equipamentos de precisão".
 
 ## Experiência
 
-Iniciando a graduação, fui monitor das disciplinas de cálculo na universidade por um ano e meio.
+Iniciando a graduação, fui monitor das disciplinas de cálculo na universidade por um 1 ano e 6 meses.
 
-Em seguida, ingressei como Estagiário de Pesquisa e Inovação Científica na Sanick Equipamentos de Precisão, onde desempenhei estudos em visão computacional e programação de software em baixo nível. Fiquei nesta posição por aproximadamente seis meses, quando fui nomeado por concurso público federal para cargo técnico na UFFS.
+Em seguida, ingressei como Estagiário de Pesquisa e Inovação Científica na Sanick Equipamentos de Precisão, onde desempenhei estudos em visão computacional e programação de software em baixo nível. Fiquei nesta posição por aproximadamente 6 meses, quando fui nomeado por concurso público federal para cargo técnico na Universidade Federal da Fronteira Sul (UFFS).
 
-Atuei como Desenvolvedor Java EE na UFFS durante 2 anos e 4 meses. Experiência diária com JSF2, PrimeFaces, JPA, Hibernate, SGBD PostgreSQL, Spring, JAX-RS, Jenkins CI, SonarQube QA, Git e outras tecnologias. Na SETI - UFFS, onde trabalhei, desenvolvi e prestei suporte aos sistemas acadêmicos da UFFS, utilizando a metodologia Scrum e em contato diário com os clientes (diferentes setores interessados da universidade).
+Atuei como Desenvolvedor Java EE na UFFS durante 2 anos e 4 meses. Tive experiência diária com JSF2, PrimeFaces, JPA, Hibernate, SGBD PostgreSQL, Spring, JAX-RS, Jenkins CI, SonarQube QA, Git e outras tecnologias. Desenvolvi e prestei suporte aos sistemas acadêmicos da UFFS, priorizando metodologias ágeis de desenvolvimento e em contato diário com os clientes (diferentes setores interessados da universidade).
 
-Deixei a UFFS no início de setembro de 2019, quando já graduado, assumi concurso público para o cargo de Analista de Sistemas na Celesc na cidade de Florianópolis.
-
-Além da experiência em trabalho, já desenvolvi sistemas para aprendizado pessoal usando HTML5, CSS, JS (ES6, AngularJS), Python (frameworks bottle, Flask e Django), PHP (framework Laravel), Java Spring Boot + Thymeleaf, Android Studio, Ionic, dentre outras tecnologias.
-
-Atualmente, aguardo nomeação para as vagas no concurso realizado para o TRF4 - Tribunal Regional Federal da 4ª Região.
+Deixei a UFFS no início de setembro de 2019, quando já graduado, assumi concurso público para o cargo de Analista de Sistemas na Celesc na cidade de Florianópolis. Lá atuei também principalmente com a linguagem Java para desenvolvimento, concebendo webservices com Spring Boot, usando Docker e banco de dados Oracle. Trabalhei na Celesc por 11 meses, até ser nomeado para trabalhar na Justiça Federal de Santa Catarina em agosto de 2020, posto que ocupo atualmente.
 
 ## Conquistas
 
@@ -45,6 +41,12 @@ Atualmente, aguardo nomeação para as vagas no concurso realizado para o TRF4 -
 * Bacharel em Ciência da Computação
   * Instituição: Universidade Federal da Fronteira Sul
   * Período: 2014 - 2019
+* MBA em Segurança da Informação
+  * Instituição: Descomplica
+  * Período: 2019 - 2020
+* Especialista em Direito Público
+  * Instituição: Legale
+  * Período: 06/2020 - 12/2020
 
 ## Contato
 
